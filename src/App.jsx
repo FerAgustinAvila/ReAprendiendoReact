@@ -9,7 +9,7 @@ import Cards from './components/Cards';
 
 function App() {
   return (
-    <div className="App mt-5">
+    <div className="App mt-5 text-center">
       <h1> Recordando React </h1>
       {/* <Home /> */}
       {/* <Contador /> */}
